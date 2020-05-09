@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: ThemeData(
         primarySwatch: Colors.blue,
@@ -62,8 +63,9 @@ timeago.PtBrMessages a = timeago.PtBrMessages();
     a.hours(d.hour);
     return Scaffold(
       appBar: AppBar(
-        title: Text("${a.days(d.day)} + ${a.hours(d.hour)}"),
+        title: Text("Dog Generator"),
         centerTitle: true,
+        backgroundColor: Colors.black26,
       ),
       body: ListView.builder(
         controller: _scrollController,
