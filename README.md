@@ -8,7 +8,7 @@ A Simple Flutter app to test a infinity scroll method .
   <img src="/img/catgif.gif">
 </p>
 
-## OR INFINITY DOGS!!(But comeon, everybody know cats is better)
+## OR INFINITY DOGS!!(But come on, everybody knows cats are better)
 
 
 <p align="center">
