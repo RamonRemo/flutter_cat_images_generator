@@ -63,7 +63,7 @@ timeago.PtBrMessages a = timeago.PtBrMessages();
     a.hours(d.hour);
     return Scaffold(
       appBar: AppBar(
-        title: Text("Dog Generator"),
+        title: Text("Cat Generator"),
         centerTitle: true,
         backgroundColor: Colors.black26,
       ),
@@ -123,7 +123,7 @@ timeago.PtBrMessages a = timeago.PtBrMessages();
 
   fetchFive() {
     for (var i = 0; i < 7; i++) {
-      fetch();
+      fetch2();
     }
   }
 }
