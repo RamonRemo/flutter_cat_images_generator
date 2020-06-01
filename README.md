@@ -1,16 +1,18 @@
-# infinity_scroll_test
+# Cat/Dog Generator
 
-A new Flutter project.
+A Simple Flutter app to test a infinity scroll method .
 
-## Getting Started
+## YOU CAN GENERATE INFINITY CATS!!
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="/img/catgif.gif">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## OR INFINITY DOGS!!(But come on, everybody knows cats are better)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="/img/doggif.gif">
+</p>
+
+## They are sooo cute, But seriously, i was just trying to learn how to infinity scroll, and it works!(But i probably should add a loading to it).
